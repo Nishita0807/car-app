@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/car-app/static/css/main.432f7359.css",
-    "main.js": "/car-app/static/js/main.436dc452.js",
+    "main.js": "/car-app/static/js/main.894a30ef.js",
     "static/js/787.b7ef4a9e.chunk.js": "/car-app/static/js/787.b7ef4a9e.chunk.js",
     "index.html": "/car-app/index.html",
     "main.432f7359.css.map": "/car-app/static/css/main.432f7359.css.map",
-    "main.436dc452.js.map": "/car-app/static/js/main.436dc452.js.map",
+    "main.894a30ef.js.map": "/car-app/static/js/main.894a30ef.js.map",
     "787.b7ef4a9e.chunk.js.map": "/car-app/static/js/787.b7ef4a9e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.432f7359.css",
-    "static/js/main.436dc452.js"
+    "static/js/main.894a30ef.js"
   ]
 }
